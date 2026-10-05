@@ -1,3 +1,7 @@
 beleberda
 гыыы 67 бегите я конченый
+ HEAD
 Изменение из ветки master
+
+Изменение их ветки feature
+ feature
